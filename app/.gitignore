@@ -1,0 +1,29 @@
+# Firebase config - DO NOT COMMIT
+app/google-services.json
+
+# Gradle build folder
+/build/
+**/build/
+
+# Local configuration files
+.gradle/
+.idea/
+*.iml
+local.properties
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Kotlin/Java build files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Android Studio
+captures/
+output.json
+
+# Ignore crashlytics (optional, if used)
+firebase-crashlytics.properties
